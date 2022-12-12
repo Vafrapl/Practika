@@ -12,7 +12,7 @@
                 <ImageBrush ImageSource="Back.png" Stretch="Uniform"/>
             </Button.Background>
         </Button>
-        <Label Content="" HorizontalAlignment="Left" Margin="128,76,0,0" VerticalAlignment="Top" Height="291" Width="433">
+        <Label Content="" HorizontalAlignment="Left" Margin="128,76,0,0" VerticalAlignment="Top" Height="337" Width="433">
             <Label.Foreground>
                 <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
                     <GradientStop Color="Black" Offset="0"/>
@@ -28,8 +28,7 @@
         </Label>
         <Label Content="Описание" HorizontalAlignment="Left" Margin="139,185,0,0" VerticalAlignment="Top" FontFamily="Trebuchet MS" FontSize="17" Foreground="White"/>
         <TextBox HorizontalAlignment="Left" Height="93" Margin="139,215,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="401"/>
-        <Label Content="Пол&#xA;" HorizontalAlignment="Left" Margin="420,127,0,0" VerticalAlignment="Top" FontFamily="Trebuchet MS" FontSize="17" Height="30" Foreground="White"/>
-        <Button Content="Открыть список" HorizontalAlignment="Left" Margin="128,377,0,0" VerticalAlignment="Top" Width="185" Height="32" FontFamily="Trebuchet MS" FontSize="17" BorderBrush="{x:Null}" Foreground="White" Click="Button_Click_3">
+        <Button Content="Заказы" HorizontalAlignment="Left" Margin="128,429,0,0" VerticalAlignment="Top" Width="97" Height="32" FontFamily="Trebuchet MS" FontSize="17" BorderBrush="{x:Null}" Foreground="White" Click="Button_Click_3">
             <Button.Background>
                 <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
                     <GradientStop Color="#FF413F42" Offset="0"/>
@@ -37,12 +36,13 @@
                 </LinearGradientBrush>
             </Button.Background>
         </Button>
-        <Label Content="Код договора" HorizontalAlignment="Left" Margin="139,127,0,0" VerticalAlignment="Top" FontFamily="Trebuchet MS" FontSize="17" Foreground="White"/>
+        <Label Content="Номер Договор" HorizontalAlignment="Left" Margin="139,127,0,0" VerticalAlignment="Top" FontFamily="Trebuchet MS" FontSize="17" Foreground="White"/>
         <TextBox HorizontalAlignment="Left" Height="23" Margin="139,157,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
         <Label Content="Код сотрудника" HorizontalAlignment="Left" Margin="273,127,0,0" VerticalAlignment="Top" FontFamily="Trebuchet MS" FontSize="17" Foreground="White"/>
         <TextBox HorizontalAlignment="Left" Height="23" Margin="273,157,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
         <Label Content="Заполнение Договоров по стройке" HorizontalAlignment="Left" Margin="139,83,0,0" VerticalAlignment="Top" FontFamily="Trebuchet MS" FontSize="25" Foreground="White" Width="415"/>
-        <ComboBox HorizontalAlignment="Left" Margin="420,157,0,0" VerticalAlignment="Top" Width="49" Background="White" BorderBrush="White" Height="23"/>
-        <Button Content="Добавить" HorizontalAlignment="Left" Margin="143,321,0,0" VerticalAlignment="Top" Width="120" Background="{x:Null}" Height="23" FontFamily="Trebuchet MS" FontSize="17" BorderBrush="{x:Null}" Foreground="White"/>
+        <Button Content="Добавить" HorizontalAlignment="Left" Margin="139,368,0,0" VerticalAlignment="Top" Width="120" Background="{x:Null}" Height="23" FontFamily="Trebuchet MS" FontSize="17" BorderBrush="{x:Null}" Foreground="White" RenderTransformOrigin="0.515,0.784"/>
+        <Label Content=" Заказчика" HorizontalAlignment="Left" Margin="328,321,0,0" VerticalAlignment="Top" FontFamily="Trebuchet MS" FontSize="17" Foreground="White"/>
+        <TextBox HorizontalAlignment="Left" Height="23" Margin="328,351,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="190"/>
     </Grid>
 </Window>

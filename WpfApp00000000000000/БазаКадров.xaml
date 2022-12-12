@@ -23,28 +23,30 @@
                     <TableRowGroup>
 
 
-                        <TableRow Background="#FFA3C9DA">
+                        <TableRow Background="#FF424242">
                             <TableCell ColumnSpan="5" TextAlignment="Center">
-                                <Paragraph FontSize="24pt" FontWeight="Bold">Отдел Кадров</Paragraph>
+                                <Paragraph FontSize="24pt" FontWeight="Bold" Foreground="#FFF9F9F9">Отдел Кадров</Paragraph>
                             </TableCell>
                         </TableRow>
 
 
-                        <TableRow Background="#FFFF9F8F">
+                        <TableRow Background="#FFD6D6D6">
+                            <TableCell>
+                                <Paragraph FontSize="14pt" FontWeight="Bold">Номер договора</Paragraph>
+                            </TableCell>
                             <TableCell>
                                 <Paragraph FontSize="14pt" FontWeight="Bold">Код сотрудника</Paragraph>
-                            </TableCell>
-                            <TableCell>
-                                <Paragraph FontSize="14pt" FontWeight="Bold">Код должности</Paragraph>
-                            </TableCell>
-
-                            <TableCell>
-                                <Paragraph FontSize="14pt" FontWeight="Bold">ФИО</Paragraph>
                             </TableCell>
 
                             <TableCell>
                                 <Paragraph FontSize="14pt" FontWeight="Bold">Описание</Paragraph>
                             </TableCell>
+
+                            <TableCell>
+                                <Paragraph FontSize="14pt" FontWeight="Bold">Заказчик</Paragraph>
+                            </TableCell>
+
+                           
                             
 
                         </TableRow>
@@ -61,30 +63,30 @@
                             </TableCell>
 
                             <TableCell>
-                                <Paragraph>Ю.С.Чукчуков</Paragraph>
+                                <Paragraph>Постройка Больничного комплекса</Paragraph>
+                            </TableCell>
+
+                            <TableCell>
+                                <Paragraph>Б.Ю.Белов</Paragraph>
                             </TableCell>
 
                             
-                            <TableCell>
-                                <Paragraph>Идея о создании Строительной компании "КПГ"</Paragraph>
-                            </TableCell>
 
                         </TableRow>
                         <TableRow Background="lightgray">
                             <TableCell>
-                                <Paragraph>1</Paragraph>
-                            </TableCell>
-                            <TableCell>
                                 <Paragraph>2</Paragraph>
                             </TableCell>
-
                             <TableCell>
-                                <Paragraph>А.Ф.Комисаров</Paragraph>
+                                <Paragraph>1</Paragraph>
                             </TableCell>
 
-                            
                             <TableCell>
-                                <Paragraph>Идея о создании Больницы "БНВГ"</Paragraph>
+                                <Paragraph>Постройка Комплекса "Урожай"</Paragraph>
+                            </TableCell>
+
+                            <TableCell>
+                                <Paragraph>Б.Ю.Блёскин</Paragraph>
                             </TableCell>
 
                         </TableRow>

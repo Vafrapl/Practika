@@ -23,19 +23,19 @@
                     <TableRowGroup>
 
 
-                        <TableRow Background="#FFA3C9DA">
+                        <TableRow Background="#FF3C3C3C">
                             <TableCell ColumnSpan="5" TextAlignment="Center">
-                                <Paragraph FontSize="24pt" FontWeight="Bold">Сотрудники</Paragraph>
+                                <Paragraph FontSize="24pt" FontWeight="Bold" Foreground="White">Сотрудники</Paragraph>
                             </TableCell>
                         </TableRow>
 
 
-                        <TableRow Background="#FFFF9F8F">
+                        <TableRow Background="#FFCDCDCD">
                             <TableCell>
                                 <Paragraph FontSize="14pt" FontWeight="Bold">Код сотрудника</Paragraph>
                             </TableCell>
                             <TableCell>
-                                <Paragraph FontSize="14pt" FontWeight="Bold">Код должности</Paragraph>
+                                <Paragraph FontSize="14pt" FontWeight="Bold">Должность</Paragraph>
                             </TableCell>
                             
                             <TableCell>
@@ -59,7 +59,7 @@
                                 <Paragraph>1</Paragraph>
                             </TableCell>
                             <TableCell>
-                                <Paragraph>2</Paragraph>
+                                <Paragraph>Директор</Paragraph>
                             </TableCell>
                             
                             <TableCell>
@@ -76,10 +76,10 @@
                         </TableRow>
                         <TableRow Background="lightgray">
                             <TableCell>
-                                <Paragraph>1</Paragraph>
+                                <Paragraph>2</Paragraph>
                             </TableCell>
                             <TableCell>
-                                <Paragraph>2</Paragraph>
+                                <Paragraph>Зам.Директора</Paragraph>
                             </TableCell>
                             
                             <TableCell>
@@ -88,6 +88,48 @@
                             
                             <TableCell>
                                 <Paragraph>65</Paragraph>
+                            </TableCell>
+                            <TableCell>
+                                <Paragraph>Муж</Paragraph>
+                            </TableCell>
+
+                        </TableRow>
+
+                        <TableRow>
+                            <TableCell>
+                                <Paragraph>3</Paragraph>
+                            </TableCell>
+                            <TableCell>
+                                <Paragraph>Строитель</Paragraph>
+                            </TableCell>
+
+                            <TableCell>
+                                <Paragraph>Ю.С.Канитон</Paragraph>
+                            </TableCell>
+
+                            <TableCell>
+                                <Paragraph>35</Paragraph>
+                            </TableCell>
+                            <TableCell>
+                                <Paragraph>Муж</Paragraph>
+                            </TableCell>
+
+                        </TableRow>
+
+                        <TableRow Background="lightgray">
+                            <TableCell>
+                                <Paragraph>4</Paragraph>
+                            </TableCell>
+                            <TableCell>
+                                <Paragraph>Уборщик</Paragraph>
+                            </TableCell>
+
+                            <TableCell>
+                                <Paragraph>А.Ф.Антипов</Paragraph>
+                            </TableCell>
+
+                            <TableCell>
+                                <Paragraph>85</Paragraph>
                             </TableCell>
                             <TableCell>
                                 <Paragraph>Муж</Paragraph>
