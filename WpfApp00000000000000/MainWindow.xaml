@@ -23,7 +23,7 @@
                 </Label.Background>
             </Label>
 
-            <Button Content="Сотрудников" HorizontalAlignment="Left" Margin="10,49,0,0" VerticalAlignment="Top" Width="222" FontFamily="Trebuchet MS" FontSize="14" BorderBrush="{x:Null}" Foreground="White" Click="Button_Click">
+            <Button Content="Сотрудники" HorizontalAlignment="Left" Margin="10,49,0,0" VerticalAlignment="Top" Width="222" FontFamily="Trebuchet MS" FontSize="14" BorderBrush="{x:Null}" Foreground="White" Click="Button_Click">
                 <Button.Background>
                     <ImageBrush/>
                 </Button.Background>

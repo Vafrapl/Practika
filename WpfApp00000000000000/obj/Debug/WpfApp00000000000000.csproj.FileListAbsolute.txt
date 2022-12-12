@@ -21,3 +21,26 @@ C:\Users\User_10\source\repos\WpfApp00000000000000\obj\Debug\Отдел кадр
 C:\Users\User_10\source\repos\WpfApp00000000000000\obj\Debug\БазаКадров.baml
 C:\Users\User_10\source\repos\WpfApp00000000000000\obj\Debug\БазаСотрудников.baml
 C:\Users\User_10\source\repos\WpfApp00000000000000\obj\Debug\Отдел кадров.baml
+C:\OpenServer\domains\Practika\WpfApp00000000000000\bin\Debug\WpfApp00000000000000.exe.config
+C:\OpenServer\domains\Practika\WpfApp00000000000000\bin\Debug\WpfApp00000000000000.exe
+C:\OpenServer\domains\Practika\WpfApp00000000000000\bin\Debug\WpfApp00000000000000.pdb
+C:\OpenServer\domains\Practika\WpfApp00000000000000\obj\Debug\WpfApp00000000000000.csprojAssemblyReference.cache
+C:\OpenServer\domains\Practika\WpfApp00000000000000\obj\Debug\MainWindow.g.cs
+C:\OpenServer\domains\Practika\WpfApp00000000000000\obj\Debug\БазаКадров.g.cs
+C:\OpenServer\domains\Practika\WpfApp00000000000000\obj\Debug\БазаСотрудников.g.cs
+C:\OpenServer\domains\Practika\WpfApp00000000000000\obj\Debug\Отдел кадров.g.cs
+C:\OpenServer\domains\Practika\WpfApp00000000000000\obj\Debug\Сотрудники.g.cs
+C:\OpenServer\domains\Practika\WpfApp00000000000000\obj\Debug\App.g.cs
+C:\OpenServer\domains\Practika\WpfApp00000000000000\obj\Debug\WpfApp00000000000000_MarkupCompile.cache
+C:\OpenServer\domains\Practika\WpfApp00000000000000\obj\Debug\WpfApp00000000000000_MarkupCompile.lref
+C:\OpenServer\domains\Practika\WpfApp00000000000000\obj\Debug\MainWindow.baml
+C:\OpenServer\domains\Practika\WpfApp00000000000000\obj\Debug\БазаКадров.baml
+C:\OpenServer\domains\Practika\WpfApp00000000000000\obj\Debug\БазаСотрудников.baml
+C:\OpenServer\domains\Practika\WpfApp00000000000000\obj\Debug\Отдел кадров.baml
+C:\OpenServer\domains\Practika\WpfApp00000000000000\obj\Debug\Сотрудники.baml
+C:\OpenServer\domains\Practika\WpfApp00000000000000\obj\Debug\WpfApp00000000000000.g.resources
+C:\OpenServer\domains\Practika\WpfApp00000000000000\obj\Debug\WpfApp00000000000000.Properties.Resources.resources
+C:\OpenServer\domains\Practika\WpfApp00000000000000\obj\Debug\WpfApp00000000000000.csproj.GenerateResource.cache
+C:\OpenServer\domains\Practika\WpfApp00000000000000\obj\Debug\WpfApp00000000000000.csproj.CoreCompileInputs.cache
+C:\OpenServer\domains\Practika\WpfApp00000000000000\obj\Debug\WpfApp00000000000000.exe
+C:\OpenServer\domains\Practika\WpfApp00000000000000\obj\Debug\WpfApp00000000000000.pdb
